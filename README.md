@@ -1,5 +1,5 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/552/148/877/matrix-backgrounds-for-widescreen-wallpaper-preview.jpg)]
-(https://rishavchanda.io)
+![MasterHead](https://c4.wallpaperflare.com/wallpaper/552/148/877/matrix-backgrounds-for-widescreen-wallpaper-preview.jpg)
+
 <h1 align="center">Hi 👋, I'm Hicham Hachem</h1>
 <h3 align="center">A Computer Science Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
