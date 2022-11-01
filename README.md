@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/bhbciND-xRAAAAAd/matrix-matrix-code.gif)
+![MasterHead](https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA/fullscreen)
 
 <h1 align="center">Hi 👋, I'm Hicham Hachem</h1>
 <h3 align="center">A Computer Science Graduate</h3>
