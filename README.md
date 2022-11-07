@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hicham-hachem&label=Profile%20views&color=0e75b6&style=flat" alt="hicham-hachem" /> </p>
 
-<img height="180em" width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicham-hachem&show_icons=true&locale=en&layout=compact" alt="hicham-hachem" />
-<img height="180em" width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=hicham-hachem&show_icons=true&locale=en" alt="hicham-hachem" />
+<img height="180em" width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hicham-hachem&show_icons=true&locale=en&layout=compact" alt="hicham-hachem" />
+<img height="180em" width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=hicham-hachem&show_icons=true&locale=en" alt="hicham-hachem" />
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
