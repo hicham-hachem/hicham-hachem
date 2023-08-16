@@ -79,7 +79,9 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   
-  
+  <a href="https://oracle.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
   
 
